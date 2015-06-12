@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Multimedia</string>
+
+    <string-array name="imageSources">
+        <item>Back Camera</item>
+        <item>Front Camera</item>
+        <item>Image</item>
+    </string-array>
+
+    <string-array name="audioSources">
+        <item>Audio file</item>
+        <item>Microphone</item>
+    </string-array>
+
+    <string name="play_icon">▶</string>
+    <string name="pause_icon">❘❘</string>
+    <string name="rewind_icon">◀◀</string>
+</resources>
